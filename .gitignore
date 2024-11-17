@@ -24,3 +24,6 @@ logs
 
 # Environment variables
 .env*
+
+.pdf
+SDE Internship Assignment.pdf
